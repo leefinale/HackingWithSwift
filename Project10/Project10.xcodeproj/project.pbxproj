@@ -7,6 +7,8 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		FE189F491B9D06B3003A30BE /* PersonCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = FE189F481B9D06B3003A30BE /* PersonCell.swift */; };
+		FE189F4B1B9D0E20003A30BE /* Person.swift in Sources */ = {isa = PBXBuildFile; fileRef = FE189F4A1B9D0E20003A30BE /* Person.swift */; };
 		FEDCE0641B9CFF6600DBC53A /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = FEDCE0631B9CFF6600DBC53A /* AppDelegate.swift */; };
 		FEDCE0661B9CFF6600DBC53A /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = FEDCE0651B9CFF6600DBC53A /* ViewController.swift */; };
 		FEDCE0691B9CFF6600DBC53A /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = FEDCE0671B9CFF6600DBC53A /* Main.storyboard */; };
@@ -26,6 +28,8 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		FE189F481B9D06B3003A30BE /* PersonCell.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = PersonCell.swift; sourceTree = "<group>"; };
+		FE189F4A1B9D0E20003A30BE /* Person.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Person.swift; sourceTree = "<group>"; };
 		FEDCE05E1B9CFF6600DBC53A /* Project10.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Project10.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		FEDCE0621B9CFF6600DBC53A /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		FEDCE0631B9CFF6600DBC53A /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
@@ -79,6 +83,8 @@
 			children = (
 				FEDCE0631B9CFF6600DBC53A /* AppDelegate.swift */,
 				FEDCE0651B9CFF6600DBC53A /* ViewController.swift */,
+				FE189F481B9D06B3003A30BE /* PersonCell.swift */,
+				FE189F4A1B9D0E20003A30BE /* Person.swift */,
 				FEDCE0671B9CFF6600DBC53A /* Main.storyboard */,
 				FEDCE06A1B9CFF6600DBC53A /* Images.xcassets */,
 				FEDCE06C1B9CFF6600DBC53A /* LaunchScreen.xib */,
@@ -212,7 +218,9 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				FE189F491B9D06B3003A30BE /* PersonCell.swift in Sources */,
 				FEDCE0661B9CFF6600DBC53A /* ViewController.swift in Sources */,
+				FE189F4B1B9D0E20003A30BE /* Person.swift in Sources */,
 				FEDCE0641B9CFF6600DBC53A /* AppDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -411,6 +419,7 @@
 				FEDCE07F1B9CFF6600DBC53A /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		FEDCE0801B9CFF6600DBC53A /* Build configuration list for PBXNativeTarget "Project10Tests" */ = {
 			isa = XCConfigurationList;
@@ -419,6 +428,7 @@
 				FEDCE0821B9CFF6600DBC53A /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
