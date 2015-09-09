@@ -7,14 +7,14 @@
 	<key>IDESourceControlProjectIdentifier</key>
 	<string>0738FE49-5E98-44F3-A3DD-C4549CD5F3BA</string>
 	<key>IDESourceControlProjectName</key>
-	<string>project</string>
+	<string>Project22</string>
 	<key>IDESourceControlProjectOriginsDictionary</key>
 	<dict>
 		<key>744B1C0241ED356F65D45AC2F107FA23AF95A007</key>
 		<string>https://github.com/leefinale/HackingWithSwift.git</string>
 	</dict>
 	<key>IDESourceControlProjectPath</key>
-	<string>Project22/Project22.xcodeproj/project.xcworkspace</string>
+	<string>Project22/Project22.xcodeproj</string>
 	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
 	<dict>
 		<key>744B1C0241ED356F65D45AC2F107FA23AF95A007</key>
