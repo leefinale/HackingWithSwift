@@ -5,16 +5,16 @@
 	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
 	<false/>
 	<key>IDESourceControlProjectIdentifier</key>
-	<string>6556BF5D-65C0-49D5-B837-89E0ECD6EE32</string>
+	<string>7D81F5D5-AFAC-4054-9976-9B15CEB426ED</string>
 	<key>IDESourceControlProjectName</key>
-	<string>Project18</string>
+	<string>project</string>
 	<key>IDESourceControlProjectOriginsDictionary</key>
 	<dict>
 		<key>744B1C0241ED356F65D45AC2F107FA23AF95A007</key>
 		<string>https://github.com/leefinale/HackingWithSwift.git</string>
 	</dict>
 	<key>IDESourceControlProjectPath</key>
-	<string>Project18/Project18.xcodeproj</string>
+	<string>Project19/Project19.xcodeproj/project.xcworkspace</string>
 	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
 	<dict>
 		<key>744B1C0241ED356F65D45AC2F107FA23AF95A007</key>
